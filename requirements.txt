@@ -1,0 +1,10 @@
+streamlit
+duckdb
+pandas
+pyarrow
+plotly
+openai
+langgraph
+lancedb
+sentence-transformers
+docling
